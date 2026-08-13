@@ -29,9 +29,9 @@ Checklist từng bước để sửa notebook hiện tại, xây pipeline sạch
 
 - [x] Tạo virtualenv / conda riêng cho project
 - [x] Cài: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`, `jupyter`
-- [ ] (Khuyến nghị) thêm: `xgboost` hoặc `lightgbm`
+- [x] (Khuyến nghị) thêm: `xgboost` hoặc `lightgbm`
 - [x] Tạo `requirements.txt` và pin version đã chạy ổn
-- [ ] Chạy notebook bằng kernel của env này (không lẫn Colab/local lung tung)
+- [x] Chạy notebook bằng kernel của env này (không lẫn Colab/local lung tung)
 
 ### 0.2 Hiểu competition
 
