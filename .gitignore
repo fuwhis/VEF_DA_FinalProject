@@ -1,1 +1,39 @@
+# ==============================================================================
+# Jupyter Notebooks
+# ==============================================================================
+# Ignore hidden autosave checkpoints created by Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython runtime and profile configurations
+profile_default/
+ipython_config.py
+
+# ==============================================================================
+# Python Caches & Environments
+# ==============================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Local virtual environments (standard names)
 .venv/
+venv/
+env/
+ENV/
+
+# Python distribution, packaging, and build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==============================================================================
+# IDEs and OS Files (Optional but Recommended)
+# ==============================================================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
